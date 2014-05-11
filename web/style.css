@@ -1,0 +1,109 @@
+body {
+  font-family: Raleway, sans-serif;
+  font-size: 15px;
+}
+
+div.container {
+  width: 900px;
+  margin: auto;
+}
+
+h1 {
+  margin-top: 80px;
+  font-family: 'Sorts Mill Goudy', serif; /*Overlock|Sorts+Mill+Goudy|Lora|Quattrocento*/
+  font-size: 48px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 22px;
+  text-align: center;
+}
+
+em {
+  font-style: italic;
+}
+
+span.strong {
+  font-weight: 700;
+}
+
+div.subtitle {
+  text-align: center;
+}
+
+p.summary {
+  padding: 0 100px 0 100px;
+}
+
+p {
+  margin-top: 20px;
+}
+
+div.section {
+  margin-top: 60px;
+  clear: both;
+}
+
+div.thing {
+  width: 350px;
+  padding: 0 50px 0 50px;
+  float: left;
+}
+
+ul {
+  margin-top: 20px;
+  margin-left: 20px;
+  list-style: circle;
+}
+
+ul li {
+  margin-top: 6px;
+}
+
+
+div.people {
+  clear: both;
+  width: 100%;
+}
+
+div.person {
+  width: 400px;
+  height: 90px;
+  margin: 30px auto 0 auto;
+}
+
+img.avatar {
+  width: 80px;
+  height: 80px;
+  float: left;
+}
+
+div.person .bio {
+  width: 300px;
+  float: left;
+  margin-left: 10px;
+}
+
+div.clear {
+  clear: both;
+}
+
+div.person p {
+  margin: 0 0 0 0;
+}
+
+p.name {
+  font-weight: 700;
+}
+
+img.linkedin {
+  display: inline-block;
+}
+
+div.contact {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  text-align: center;
+}
