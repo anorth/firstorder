@@ -39,6 +39,7 @@ p.summary {
 
 p {
   margin-top: 20px;
+  line-height: 22px;
 }
 
 div.section {
@@ -56,6 +57,7 @@ ul {
   margin-top: 20px;
   margin-left: 20px;
   list-style: circle;
+  line-height: 20px;
 }
 
 ul li {
@@ -72,6 +74,9 @@ div.person {
   width: 400px;
   height: 90px;
   margin: 30px auto 0 auto;
+}
+div.person p {
+  line-height: 20px;
 }
 
 img.avatar {
@@ -106,4 +111,5 @@ div.contact {
   margin-top: 80px;
   margin-bottom: 80px;
   text-align: center;
+  font-size: 18px;
 }
